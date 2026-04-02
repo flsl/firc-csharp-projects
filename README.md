@@ -1,6 +1,10 @@
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于C#winform部署APISR算法的onnx模型实现动漫图片超分辨率无损放大模糊图片变清晰</td><td><a href="https://mbd.pub/o/bread/YZWclZZpaA==">下载</a></td></tr>
+<tr><td>基于C#winform部署ESPCN的onnx模型实现超分辨率图片无损放大模糊图片变清晰</td><td><a href="https://mbd.pub/o/bread/YZWclJxqaA==">下载</a></td></tr>
+<tr><td>基于C#winform部署BEN2的onnx模型实现前景分割源码.7z</td><td><a href="https://mbd.pub/o/bread/YZWclJhwaQ==">下载</a></td></tr>
+<tr><td>基于C#winform部署RealESRGAN的onnx模型实现超分辨率图片无损放大模糊图片变清晰.7z</td><td><a href="https://mbd.pub/o/bread/YZWclJhtaQ==">下载</a></td></tr>
 <tr><td>C# winform使用纯opencvsharp部署yolo26-cls图像分类的onnx模型源码</td><td><a href="https://mbd.pub/o/bread/YZWamZpyag==">下载</a></td></tr>
 <tr><td>C# winform部署yolo26-obb旋转框检测的onnx模型演示源码+模型+说明.7z</td><td><a href="https://mbd.pub/o/bread/YZWamZpwaQ==">下载</a></td></tr>
 <tr><td>C# winform部署yolo26-pose姿态估计关键点的onnx模型演示源码+模型+说明</td><td><a href="https://mbd.pub/o/bread/YZWamZlybQ==">下载</a></td></tr>
